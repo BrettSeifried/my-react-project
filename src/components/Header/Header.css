@@ -1,0 +1,10 @@
+header {
+  color: var(--color5);
+  height: 40px;
+  background-color: rgb(111, 182, 240);
+  display: flex;
+  align-items: center;
+  padding-left: 20px;
+  text-transform: uppercase;
+  font-weight: bold;
+}

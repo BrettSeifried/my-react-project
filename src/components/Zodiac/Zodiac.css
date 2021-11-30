@@ -1,0 +1,22 @@
+.Zodiac {
+  width: 200px;
+  margin: 10px;
+  border-radius: 5px;
+  padding: 10px;
+  color: var(--color1);
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+  background-color: rgb(16, 109, 195);
+}
+
+.Zodiac img {
+  width: 100px;
+}
+
+.Zodiac .name {
+  text-transform: uppercase;
+  font-weight: bold;
+}
