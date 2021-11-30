@@ -7,8 +7,3 @@ main {
   align-content: flex-start;
   position: relative;
 }
-
-.background {
-  background-repeat: no-repeat;
-  background-size: cover;
-}
